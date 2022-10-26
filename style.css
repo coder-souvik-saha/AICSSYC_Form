@@ -218,7 +218,7 @@ main.sign-up-mode .carousel {
   width: 55%;
   left: 45%;
   top: 0;
-  background-color: #ffe0d2;
+  background-color: #151111;
   border-radius: 2rem;
   display: grid;
   grid-template-rows: auto 1fr;
@@ -304,7 +304,7 @@ main.sign-up-mode .carousel {
 
 .bullets span.active {
   width: 1.1rem;
-  background-color: #151111;
+  background-color: white;
   border-radius: 1rem;
 }
 
