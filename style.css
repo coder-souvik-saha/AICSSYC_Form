@@ -235,6 +235,7 @@ main.sign-up-mode .carousel {
 
 .image {
   width: 100%;
+  height: 90%;
   grid-column: 1/2;
   grid-row: 1/2;
   opacity: 0;
@@ -266,7 +267,7 @@ main.sign-up-mode .carousel {
 }
 
 .text-wrap {
-  max-height: 2.2rem;
+  max-height: 2.4rem;
   overflow: hidden;
   margin-bottom: 2.5rem;
 }
@@ -280,8 +281,8 @@ main.sign-up-mode .carousel {
 }
 
 .text-group h2 {
-  line-height: 2.2rem;
-  font-weight: 600;
+  line-height: 2.1rem;
+  font-weight: 500;
   font-size: 1.6rem;
   color: #fff;
 }
